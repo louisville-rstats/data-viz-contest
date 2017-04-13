@@ -15,13 +15,13 @@ There are only a handful of rules:
 - Your code must be open (at least the visualization part)
 - Ideally, your final data set should be shareable on Data.World's platform on our Organization page
 
-Beyond that, the sky's the limit! We would also like folks to try and utilize either the KY Legislature API built by the Civic Data Alliance, or any of the datasets stored on Louisville's Open Data Portal - but if contestants have their eye on a particular set of data that falls outside of those then that's OK by us.
+Beyond that, the sky's the limit! We would also like folks to try and utilize either the [KY Legislature API](http://derby-pie-politics.herokuapp.com/) built by the Civic Data Alliance, or any of the datasets stored on [Louisville's Open Data Portal](https://data.louisvilleky.gov/) - but if contestants have their eye on a particular set of data that falls outside of those then that's OK by us.
 
 ## Submission and Judging
 
 **Deadline**
 
-Our next meet up is scheduled for May 23rd from 12 - 1:30pm where the winners will be announced. In order for us to have time to judge the submissions, please have your visualizations finalized and submitted by May 16th.
+Our next meet up is scheduled for May 23rd from 12 - 2pm where the winners will be announced. In order for us to have time to judge the submissions, please have your visualizations finalized and submitted by May 16th.
 
 **How to Submit**
 
