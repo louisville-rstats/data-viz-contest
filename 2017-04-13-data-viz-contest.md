@@ -21,7 +21,7 @@ Beyond that, the sky's the limit! We would also like folks to try and utilize ei
 
 **Deadline**
 
-Our next meet up is scheduled for May 23rd from 12 - 2pm where the winners will be announced. In order for us to have time to judge the submissions, please have your visualizations finalized and submitted by May 16th.
+Our next meet up is scheduled for May 23rd from 12 - 1:30pm where the winners will be announced. In order for us to have time to judge the submissions, please have your visualizations finalized and submitted by May 16th.
 
 **How to Submit**
 
