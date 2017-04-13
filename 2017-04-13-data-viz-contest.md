@@ -29,9 +29,9 @@ Think of this as somewhat open ended. We do ask that your source code be sent to
 
 **Judges**
 
-Ben Reno-Webber - Project Director, Greater Louisville Project
-Michael Schnuerle - Chief Data Officer, City of Louisville
-Zain Khandwala - Executive Director, Institute for Advanced Analytics at Bellarmine University
+- Ben Reno-Webber - Project Director, Greater Louisville Project
+- Michael Schnuerle - Chief Data Officer, City of Louisville
+- Zain Khandwala - Executive Director, Institute for Advanced Analytics at Bellarmine University
 
 ## Prizes
 
