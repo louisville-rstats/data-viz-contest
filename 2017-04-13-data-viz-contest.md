@@ -11,7 +11,7 @@ Second, we want to develop strong partnerships within the data community. This i
 
 There are only a handful of rules:
 
-- You *must* use R for your final visualiation
+- You **must** use R for your final visualiation
 - Your code must be open (at least the visualization part)
 - Ideally, your final data set should be shareable on Data.World's platform on our Organization page
 
@@ -20,9 +20,11 @@ Beyond that, the sky's the limit! We would also like folks to try and utilize ei
 ## Submission and Judging
 
 **Deadline**
+
 Our next meet up is scheduled for May 23rd from 12 - 2pm where the winners will be announced. In order for us to have time to judge the submissions, please have your visualizations finalized and submitted by May 16th.
 
 **How to Submit**
+
 Think of this as somewhat open ended. We do ask that your source code be sent to us (either via email or on slack) so that we can host on our GitHub page, but the visual itself can either be any image file that is shared with us or a visualization that is hosted on a standalone page. Whatever suits your fancy - we just want to put eyes on it!
 
 **Judges**
