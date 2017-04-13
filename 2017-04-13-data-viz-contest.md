@@ -35,4 +35,4 @@ Think of this as somewhat open ended. We do ask that your source code be sent to
 
 ## Prizes
 
-Aside from bragging rights, the winner will receive a **swag pack** from our sponsors at Data.World. There will also be coverage of the contest and the final results on Data.World's social media accounts and website. So...there's that too.
+Aside from the obvious bragging rights, the winner will receive a **swag pack** from our sponsors at Data.World. There will also be coverage of the contest and the final results on Data.World's social media accounts and website. So...there's that too.
