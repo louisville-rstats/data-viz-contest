@@ -29,10 +29,10 @@ Think of this as somewhat open ended. We do ask that your source code be sent to
 
 **Judges**
 
-Ben Reno-Webber - Project Director, Greater Louisville Project
-Michael Schnuerle - Chief Data Officer, City of Louisville
-Zain Khandwala - Executive Director, Institute for Advanced Analytics at Bellarmine University
+- Ben Reno-Webber - Project Director, Greater Louisville Project
+- Michael Schnuerle - Chief Data Officer, City of Louisville
+- Zain Khandwala - Executive Director, Institute for Advanced Analytics at Bellarmine University
 
 ## Prizes
 
-Aside from bragging rights, the winner will receive a **swag pack** from our sponsors at Data.World. There will also be coverage of the contest and the final results on Data.World's social media accounts and website. So...there's that too.
+Aside from the obvious bragging rights, the winner will receive a **swag pack** from our sponsors at Data.World. There will also be coverage of the contest and the final results on Data.World's social media accounts and website. So...there's that too.
